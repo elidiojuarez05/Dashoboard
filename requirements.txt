@@ -1,0 +1,14 @@
+streamlit
+psycopg2-binary
+sqlalchemy
+pandas
+matplotlib
+opencv-python-headless
+streamlit-cropper
+pillow
+fpdf
+streamlit-cookies-manager-ext
+scipy
+pytz
+fpdf2
+
